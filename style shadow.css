@@ -1,0 +1,33 @@
+*{
+
+    margin: 0;
+    padding: 0;
+background: url(./Blood.png);
+}
+
+body{
+text-align: center;
+text-align
+
+}
+
+#pic{
+ 
+    display: inline-block;
+    
+}
+
+
+
+canvas{
+
+position: relative;
+    
+}
+
+.png {
+    position: absolute;
+    top:80%;
+    left:80%;
+    z-index:2;
+}
